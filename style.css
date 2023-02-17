@@ -1,0 +1,19 @@
+.first{
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
+.first2{
+    font-weight:lighter ;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+}
+.first3{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: large;
+}
+
+
